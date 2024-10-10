@@ -1,0 +1,68 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: #F8FAFC;
+  color: #030616;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 25px 40px 25px 40px;
+}
+
+header, main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+header {
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: 600;
+}
+
+h2 {
+  font-size:  1.5rem;
+  font-weight: 600;
+  margin: 25px 0px;
+}
+
+a {
+  color: #4E80EE;
+  text-decoration: none;
+}
+
+li {
+  margin: 10px 0px;
+  list-style-position: inside;
+}
+
+ul, ol {
+  padding: 0px;
+}
+
+hr {
+  border: 1px solid #D2D5DA;
+}
+
+article > p {
+  margin: 25px 0px;
+}
