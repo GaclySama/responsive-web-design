@@ -12,4 +12,4 @@
 
 3. Join our newsletter:
 
-  despliegue -> https://comfy-sprinkles-d93131.netlify.app/
+  despliegue -> https://incomparable-begonia-8f61c1.netlify.app/
