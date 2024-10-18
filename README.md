@@ -9,3 +9,7 @@
 2. Minimal Blog Card:
 
   despliegue -> https://cute-faloodeh-abda11.netlify.app/
+
+3. Join our newsletter:
+
+  despliegue -> https://comfy-sprinkles-d93131.netlify.app/
