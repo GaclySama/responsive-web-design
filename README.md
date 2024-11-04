@@ -4,7 +4,7 @@
 
 1. FAQ:
 
-  despliegue -> https://67073bc065692d4cef162ede--tourmaline-flan-cc2513.netlify.app/
+  despliegue -> https://tranquil-paprenjak-046472.netlify.app/
 
 2. Minimal Blog Card:
 
@@ -13,3 +13,7 @@
 3. Join our newsletter:
 
   despliegue -> https://incomparable-begonia-8f61c1.netlify.app/
+
+4. Simple Article List:
+
+  despliegue -> https://storied-douhua-96285b.netlify.app/
